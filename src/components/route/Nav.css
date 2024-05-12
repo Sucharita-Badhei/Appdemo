@@ -1,0 +1,23 @@
+.navContainer{
+   /* background-color: red;*/
+    
+    display: flex;
+}
+.lftContainer{
+   background-color: navy;
+    width:30%;
+    color: white;
+}
+.rhtContainer{
+   background-color: navy;
+   display: flex;
+   color: white;
+    width:70%;
+
+}
+.rhtContainer a{
+    color:white;
+    text-decoration: none;
+    justify-content: space-between;
+    margin: 15px auto;
+}
